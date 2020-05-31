@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Interactive maps for Django web apps</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+  </head>
+  <body>
+   <h1 id='h1' style="text-align: center;">Welcome to Data Map</h1>
+   <table class="">
+       <tr>
+           <td style="color:#337ab7">
+               <p><a href="{% url 'maps:totalPop' %}">Total Population</a></p>
+           </td>
+           <td style="color:#337ab7">
+               <p><a href="{% url 'maps:medIncome' %}">Median Household Income</a></p>
+           </td>
+           <td style="color:#337ab7">
+               <p><a href="{% url 'maps:healthInfra' %}">Health Infrastructure</a></p>
+           </td>
+           <td style="color:#337ab7">
+               <p><a href="{% url 'maps:underlyHealth' %}">Underlying Health Issues</a></p>
+           </td>
+           <td style="color:#337ab7">
+               <p><a href="{% url 'maps:vulIndex' %}">Vulnerability Index</a></p>
+           </td>
+       </tr>
+   </table>
+    <div id='map' style='top: 200px; width: 100%; height: 400px;'></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWFya3l1MTIzNTgiLCJhIjoiY2thdTdkM242MHd1bzJxcjJjbzNlYXlkZCJ9.y09b-zDcGK44RXtLmQOp-w';
+    var map = new mapboxgl.Map({
+    container: 'map',
+     style: 'mapbox://styles/mapbox/streets-v9',
+     center: [-97.18, 38.97],
+     zoom: 4
+    });
+     map.on('load', function() {
+  });
+    </script>
+  </body>
+</html>

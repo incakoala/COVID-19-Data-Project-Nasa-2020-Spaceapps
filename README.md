@@ -1,4 +1,4 @@
-# NASA 2020 Space Apps COVID-19 Challenge
+## NASA 2020 Space Apps COVID-19 Challenge
 
 <p align="center"><img src= "https://pbs.twimg.com/profile_images/1253737321574420482/okug2TUc_400x400.jpg"</p>
 
@@ -9,7 +9,7 @@
 [Take a look at our website here!](https://datadummies.co/index.html)
 
 
-<p align="center">Our goal was to provide accessible visualization of how social, economic, and medical factors intertwine in ultimately reflecting a community's risk for COVID-19. By compiling interdisciplinary data from multiple sources to generate interactive maps visualizing our ranked vulnerability indexes and as well as where they are heaviest when overlaid, we hope to help make more informed decisions in safely and efficiently handling COVID-19.</p>
+<p align="center">Our goal was to provide effective visualization of how social, economic, and medical factors intertwine in ultimately reflecting a community's risk for COVID-19. By compiling interdisciplinary data from multiple sources to generate interactive maps visualizing our ranked vulnerability indexes and as well as where they are heaviest when overlaid, we hope to help make more informed decisions in safely and efficiently handling COVID-19.</p>
 
 
 To run:

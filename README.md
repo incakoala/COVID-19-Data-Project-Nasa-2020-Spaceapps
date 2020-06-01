@@ -8,8 +8,6 @@
 
 [Click here to take a look at our short summary video!](https://streamable.com/9d7e2k)
 
-[SpaceApps Project Link Here!](https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)
-
 
 [Take a look at our website here!](https://datadummies.co/index.html)
 
@@ -25,8 +23,6 @@ To run:
 
 
 [SpaceApps Project Link Here!](https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)
-
-[Click here to take a look at our short summary video!](https://streamable.com/9d7e2k)
 
 
 

@@ -10,7 +10,7 @@ To run:
 
 2. python manage.py runserver
 
-[![Final Submission](https://streamable.com/9d7e2k")
+[Take a look at our short summary video!](https://streamable.com/9d7e2k)
 
 
 ![demo](https://i.ibb.co/7tXcYgn/screencapture-127-0-0-1-8000-2020-05-31-23-22-49.png)

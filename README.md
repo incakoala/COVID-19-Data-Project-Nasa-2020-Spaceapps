@@ -4,7 +4,8 @@
 
 <p align="center">Team DataDummies is proud to take on the NASA 2020 SpaceApps Challenge!</p>
 
-[SpaceApps Project Link Here!](https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)
+
+[Click here to take a look at our short summary video!](https://streamable.com/9d7e2k)
 
 [Take a look at our website here!](https://datadummies.co/index.html)
 
@@ -18,7 +19,7 @@ To run:
 
 2. python manage.py runserver
 
-[Click here to take a look at our short summary video!](https://streamable.com/9d7e2k)
+[SpaceApps Project Link Here!](https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)
 
 
 ![demo](https://i.ibb.co/7tXcYgn/screencapture-127-0-0-1-8000-2020-05-31-23-22-49.png)

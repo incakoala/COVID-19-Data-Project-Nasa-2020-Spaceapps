@@ -2,7 +2,7 @@
 
 <p align="center"><img src= "https://pbs.twimg.com/profile_images/1253737321574420482/okug2TUc_400x400.jpg"</p>
 
-<p align="center">![Team DataDummies is proud to take on the NASA 2020 SpaceApps Challenge!]</p>(https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)
+<p align="center">![Team DataDummies is proud to take on the NASA 2020 SpaceApps Challenge!](https://covid19.spaceappschallenge.org/challenges/covid-challenges/sdgs-and-covid-19/teams/data-dummies/project)</p>
 
 To run:
 

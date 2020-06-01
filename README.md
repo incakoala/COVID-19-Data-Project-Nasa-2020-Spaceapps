@@ -10,3 +10,6 @@ python -m pip install Django
 
 
 python manage.py runserver
+
+
+![demo](https://i.ibb.co/7tXcYgn/screencapture-127-0-0-1-8000-2020-05-31-23-22-49.png)
